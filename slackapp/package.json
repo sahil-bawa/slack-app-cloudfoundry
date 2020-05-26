@@ -1,0 +1,8 @@
+{
+  "name": "cf-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "request/request",
+    "express": "expressjs/express"
+  }
+}
