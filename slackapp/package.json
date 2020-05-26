@@ -4,5 +4,9 @@
   "dependencies": {
     "request": "request/request",
     "express": "expressjs/express"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
+
 }
